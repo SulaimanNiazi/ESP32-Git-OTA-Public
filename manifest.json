@@ -1,5 +1,6 @@
 {
   "ESP32WROOM32": {
-    "version": "2.2.1"
+    "version": "3.0.0",
+    "sha256": "28ab298b6bc848dd32a1f025efbed05601c7dddfddf59e75e733438c0b0317ef"
   }
 }
